@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+Daniel Pulami 4374030
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
